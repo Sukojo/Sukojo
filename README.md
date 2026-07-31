@@ -8,7 +8,7 @@ I've got a solid foundation in both **Offensive** & **Defensive** Cybersecurity,
 - Currently building my own **Cloud & Virtualization Lab**: Multi-VM setup (web, DB, monitoring) with network segmentation, SSH hardening, and Prometheus/Grafana monitoring.
 - Hands-on experience across **Linux/Windows Administration**, **Active Directory**, **Cloud (Azure)**, and **Pentesting**.
 - Multilingual: **Dutch, English, Urdu, Punjabi** (Fluent) | **French** (Intermediate)
-- Goal: Landing a System Engineer internship focused on Cloud & Security — currently targeting Autumn 2026 or Spring 2027.
+- Goal: Landing a System Engineer internship focused on Cloud & Security - currently targeting Spring 2027.
 
 ---
 
