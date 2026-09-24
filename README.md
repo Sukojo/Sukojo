@@ -34,22 +34,24 @@ I've got a solid foundation in both **Offensive** & **Defensive** Cybersecurity,
 ```text
 [ Internet ]
       │
-[ Firewall / Router ]
+[ ISP Router ]
+      │
+[ Ubuntu Server (repurposed laptop) ]
       │
  ┌────┴──────────────────────────┐
- │ Network Segmentation (VLANs)  │
+ │  Docker                       │
  ├───────────────────────────────┤
- │  ├─ Web Server (HTTPS / WAF)  │
- │  ├─ Database Server           │
- │  └─ Monitoring Server         │
- │       ├─ Prometheus           │
- │       └─ Grafana              │
+ │  ├─ Nextcloud AIO (storage)   │
+ │  └─ Caddy (reverse proxy /    │
+ │       HTTPS, local domain)    │
  └───────────────────────────────┘
+      │
+[ Pi-hole (DNS filtering) ]
 ```
 
-* **Security:** SSH Hardening, HTTPS enforcement, Network Segmentation
-* **Monitoring:** Real-time metrics via **Prometheus** + dashboards in **Grafana**
-* **Automation:** Exploring Infrastructure as Code with **Terraform** & **Ansible**
+* **Storage:** Self-hosted Nextcloud, deployed via Docker Compose, serving family file storage
+* **Networking:** Caddy reverse proxy with automatic HTTPS, local DNS record for a custom domain
+* **DNS filtering:** Pi-hole for network-wide ad/tracker blocking
 
 ---
 
